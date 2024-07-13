@@ -19,12 +19,13 @@ This is a sub category for the main areas covered in TopicWise
    
 #2 CheckList
 #2 CheatSheets
-#  
+#  Diagrams
 #3 eBooks
    - Recommendations
    - Online
    - Downloadable
-# Environment Setups
+#  Environment Setups
+#  Example
 #4 Frameworks
   - Cybersecurity Framework by NIST 
   - MiterAttack
@@ -55,7 +56,14 @@ This is a sub category for the main areas covered in TopicWise
 #  Training
 #  Tools
    - Online
+      > Flowchart
+      > MindMap
+      > Presentation
+      > 
+      
    - Standalone
+      > Listing
+      > 
    - Cloudbased
 #  Databases
    > Exploit Database
